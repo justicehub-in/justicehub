@@ -1,4 +1,6 @@
-# JusticeHub
+<h1 align="center">
+	<img width="343" src="https://github.com/justicehub-in/justicehub/blob/main/jh_logo.png?raw=true" alt="JusticeHub Logo">
+</h1>
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT)
 [![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
