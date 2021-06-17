@@ -7,6 +7,7 @@
 [![Gitter](https://img.shields.io/badge/forum-%20discourse-e0462f.svg?style=flat-square)](https://forum.justicehub.in/)
 [![Newsletter](https://img.shields.io/badge/newsletter-%20substack-blue.svg)](https://dataforjustice.substack.com/)
 [![Docs: latest](https://img.shields.io/badge/docs-latest-brightgreen.svg?style=flat)](https://docs.justicehub.in/)
+[![Twitter](https://img.shields.io/badge/twitter-%20justicehub-1DA1F2.svg)](https://twitter.com/JusticeHubIndia)
 
 [JusticeHub](https://justicehub.in) empowers communities for data-driven justice by making legal and justice data open, accessible and actionable.
 
