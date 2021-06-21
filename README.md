@@ -2,7 +2,7 @@
 	<img width="343" src="https://github.com/justicehub-in/justicehub/blob/main/jh_logo.png?raw=true" alt="JusticeHub Logo">
 </h1>
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT)
+[![License: AGPL-3.0](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
 [![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](README.md)
 [![Gitter](https://img.shields.io/badge/forum-%20discourse-e0462f.svg?style=flat-square)](https://forum.justicehub.in/)
 [![Newsletter](https://img.shields.io/badge/newsletter-%20substack-blue.svg)](https://dataforjustice.substack.com/)
